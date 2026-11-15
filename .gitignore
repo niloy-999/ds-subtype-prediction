@@ -1,0 +1,37 @@
+# ---- data and derived data: never committed (see README "Data") ----
+data_raw/
+processed_data/
+results/
+demo_workspace/
+*.joblib
+*.npz
+*.pkl
+*.gz
+*.zip
+*.part
+
+# ---- python ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# ---- OS / editor ----
+.DS_Store
+.idea/
+.vscode/
+
+# ---- local-only tooling and logs ----
+.local_tools/
+*.log
+
+# ---- LaTeX build artefacts (if a manuscript folder is ever added) ----
+*.aux
+*.bbl
+*.blg
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz

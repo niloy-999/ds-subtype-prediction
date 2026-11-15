@@ -1,0 +1,17 @@
+# Core (required)
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.6
+joblib>=1.2
+requests>=2.28
+openpyxl>=3.1
+
+# Strongly recommended (documented fallbacks exist if missing - see module docstrings)
+xgboost>=1.7          # XGBoost comparator model in stages 03/05
+shap>=0.44            # SHAP beeswarm/dependence plots in stage 05 (falls back to permutation importance)
+pydeseq2>=0.4          # negative-binomial differential expression in stage 02 (falls back to OLS on log-CPM)
+
+# Optional
+diptest>=0.5           # Hartigan's dip test for multimodality in stage 04 (skipped if absent)

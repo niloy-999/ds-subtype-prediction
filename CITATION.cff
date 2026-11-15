@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DS Subtype Pipeline: prediction of Down syndrome molecular subtypes from whole-blood RNA-seq"
+authors:
+  - family-names: "Surname"
+    given-names: "Given names"
+version: "1.0.0"
+date-released: "2026-11-15"
+license: MIT
+repository-code: "https://github.com/YOURUSER/ds-subtype-prediction"
+keywords:
+  - Down syndrome
+  - trisomy 21
+  - RNA-seq
+  - nested cross-validation
+  - machine learning
