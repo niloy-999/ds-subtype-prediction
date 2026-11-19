@@ -1,0 +1,5 @@
+panel_arm,cluster,expected_sign,n_genes,median_rho,fraction_expected_sign,wilcoxon_p
+MS1-up,HSA21_cluster1,>0,27,0.8590330517089672,1.0,7.450580596923828e-09
+MS3-up,HSA21_cluster2,>0,4,0.7051066129046037,1.0,0.0625
+MS1-up,HSA21_cluster2,<0,27,-0.5400541607223708,1.0,7.450580596923828e-09
+MS3-up,HSA21_cluster1,<0,4,-0.84745427519456,1.0,0.0625

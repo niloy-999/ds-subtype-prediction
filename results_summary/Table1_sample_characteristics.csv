@@ -1,0 +1,5 @@
+group,n,age_median,age_IQR,female_%,test_across_MS1-3
+Control,96,27.6,14.4-38.9,54.166666666666664,age p=0.661; sex p=0.965 (no source/site information available)
+MS1,107,22.9,13.3-33.2,46.728971962616825,
+MS2,95,24.4,17.2-30.4,45.26315789473684,
+MS3,102,22.35,16.8-31.4,47.05882352941176,

@@ -1,0 +1,2 @@
+n_genes,n_pairs,n_DS,n_Control,preservation_DS,preservation_Control,difference_DS_minus_Control,permutation_p_two_sided
+12,66,15,22,0.5528881285740697,0.32124330701370934,0.23164482156036031,0.16318368163183683

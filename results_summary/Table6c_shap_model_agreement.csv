@@ -1,0 +1,8 @@
+model_A,model_B,metric,value,p
+svm,elastic_net,Spearman of mean|SHAP| across genes (all classes),0.8941176470588235,3.0113099296374175e-06
+svm,elastic_net,Spearman of mean|SHAP| across genes (MS1),0.7669649888473704,0.0005265589252224254
+svm,elastic_net,Spearman of mean|SHAP| across genes (MS2),0.9029411764705882,1.677724370594156e-06
+svm,elastic_net,Spearman of mean|SHAP| across genes (MS3),0.85,3.0522600677849796e-05
+svm,elastic_net,top-3 gene overlap (count),2.0,
+svm,elastic_net,top-5 gene overlap (count),4.0,
+svm,elastic_net,"direction agreement (sign of Spearman(expression, SHAP)), all gene x class",0.875,
